@@ -1,6 +1,6 @@
 # Examples of CUDA kernels
 
-`gpu_programming`: This directory contains presentation slides introducing GPU programming with CUDA kernels.
+`GPU Programming.pdf`: This directory contains presentation slides introducing GPU programming with CUDA kernels.
 
 `vector_add`: This directory includes code in both Python and C++ for implementing vector addition.
 
